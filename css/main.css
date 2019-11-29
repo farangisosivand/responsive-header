@@ -16,30 +16,14 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  font-family: Ubuntu;
-  font-style: regular, bold;
-  font-size: 2rem 1.125rem;
-  padding: 5px .3em 0 .5em .5em .75em 0 .75rem;
-  margin: .9rem;
-}
-
 header {
-  font-weight: bold;
   background-color: #18294f;
 }
 
 h1 {
-  text-align: center;
   color: #fff;
 }
 
-nav ul li {
-  display: block;
+a {
   color: #6c8fe0;
-  text-decoration: none;
-  list-style-type: none;
-  text-align: left;
-  line-height: 1.5;
-  font-size: 110%;
 }
